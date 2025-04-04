@@ -29,8 +29,10 @@ Deployment: GitHub Pages / Vercel
   (ii) style.css       # CSS Styling for the website
   (iii)script.js       # JavaScript for interactive features
   (iv)README.md        # Project documentation
-  Live Demo
- Check out the live website here: 
+
+
+ Live Demo
+ Check out the live website here: https://my-portfolio-sandy-six-48.vercel.app/
 
 📷 Screenshots
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/938cdfad-60ff-450f-8701-dcc560175194" />
@@ -53,10 +55,10 @@ Deployment: GitHub Pages / Vercel
  Want to Contribute?
 If you'd like to improve or customize this portfolio, feel free to fork the repo, make changes, and create a pull request.
 
-📞 Contact
-📧 Email: Ankitchaudhary9876543@email.com 
-🔗 Portfolio: yourwebsite.com
-📷 Instagram: @ankit_chaudhary0128
+ Contact:
+ Email: Ankitchaudhary9876543@email.com 
+ Portfolio: https://my-portfolio-sandy-six-48.vercel.app/
+ Instagram: @ankit_chaudhary0128
 
 If you like this project, consider giving it a star on GitHub 
 
