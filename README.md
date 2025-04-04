@@ -25,10 +25,10 @@ Deployment: GitHub Pages / Vercel
  Project Structure:
  
    My-Portfolio
-  ├── index.html       # Main HTML file
-  ├── style.css       # CSS Styling for the website
-  ├── script.js       # JavaScript for interactive features
-  ├── README.md        # Project documentation
+  (i) index.html       # Main HTML file
+  (ii) style.css       # CSS Styling for the website
+  (iii)script.js       # JavaScript for interactive features
+  (iv)README.md        # Project documentation
   Live Demo
  Check out the live website here: 
 
@@ -54,7 +54,7 @@ Deployment: GitHub Pages / Vercel
 If you'd like to improve or customize this portfolio, feel free to fork the repo, make changes, and create a pull request.
 
 📞 Contact
-📧 Email: Ankitchaudhary9876543@@email.com 
+📧 Email: Ankitchaudhary9876543@email.com 
 🔗 Portfolio: yourwebsite.com
 📷 Instagram: @ankit_chaudhary0128
 
